@@ -1,0 +1,27 @@
+running egg_info
+writing build/pacote/pacote.egg-info/PKG-INFO
+writing dependency_links to build/pacote/pacote.egg-info/dependency_links.txt
+writing entry points to build/pacote/pacote.egg-info/entry_points.txt
+writing requirements to build/pacote/pacote.egg-info/requires.txt
+writing top-level names to build/pacote/pacote.egg-info/top_level.txt
+reading manifest file 'build/pacote/pacote.egg-info/SOURCES.txt'
+writing manifest file 'build/pacote/pacote.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pacote/node.py -> /home/albertomiranda/Documents/github/ponderada3m8/pacote/build/pacote/build/lib/pacote
+copying pacote/initial_pose.py -> /home/albertomiranda/Documents/github/ponderada3m8/pacote/build/pacote/build/lib/pacote
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/albertomiranda/Documents/github/ponderada3m8/pacote/build/pacote/build/lib/pacote/node.py -> /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote
+copying /home/albertomiranda/Documents/github/ponderada3m8/pacote/build/pacote/build/lib/pacote/initial_pose.py -> /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote
+byte-compiling /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote/node.py to node.cpython-310.pyc
+byte-compiling /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote/initial_pose.py to initial_pose.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/pacote/pacote.egg-info to /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/python3.10/site-packages/pacote-0.0.0-py3.10.egg-info
+running install_scripts
+Installing node script to /home/albertomiranda/Documents/github/ponderada3m8/pacote/install/pacote/lib/pacote
+writing list of installed files to '/home/albertomiranda/Documents/github/ponderada3m8/pacote/build/pacote/install.log'

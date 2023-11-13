@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+build/pacote/pacote.egg-info/PKG-INFO
+build/pacote/pacote.egg-info/SOURCES.txt
+build/pacote/pacote.egg-info/dependency_links.txt
+build/pacote/pacote.egg-info/entry_points.txt
+build/pacote/pacote.egg-info/requires.txt
+build/pacote/pacote.egg-info/top_level.txt
+build/pacote/pacote.egg-info/zip-safe
+pacote/__init__.py
+pacote/initial_pose.py
+pacote/node.py
+resource/pacote
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
